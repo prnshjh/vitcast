@@ -6,7 +6,7 @@
 
 
 #wrapper {
-  height: 100vh;
+  size: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
   /* background-image: linear-gradient(to right, #fc5c7d, #6a82fb); */
@@ -61,7 +61,7 @@
   margin-bottom: 20px;
   border-radius: 10px;
   overflow: hidden;
-  object-fit: cover;
+/*   object-fit: cover; */
 }
 
 .card img {
